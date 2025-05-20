@@ -32,7 +32,7 @@ export default function Context({children}){
 //children is child component ,children is objec deconsstruct {children}
 // props caming to the Context fuction  , so it is component
 // children default in the props 
-//like parentcomponet inside childe component  that is children ,rapping children 
+//like parentcomponet inside childe component  that is children ,wrapping children 
 
 
 //Provider using to rapp the children 
